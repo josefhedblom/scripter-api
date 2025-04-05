@@ -2,7 +2,7 @@ package com.example.scripter_api;
 
 import java.util.*;
 
-public class MiniFountainParser {
+public class MiniParser {
 
     public List<Element> parse(String input) {
         List<Element> elements = new ArrayList<>();
