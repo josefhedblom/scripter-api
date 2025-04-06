@@ -11,11 +11,6 @@ Jag skriver själv manus, och jag saknade ett enkelt verktyg där jag snabbt kun
 - Klistra in en scenidé
 - Få den snyggt formaterad direkt
 - Spara ner eller dela med andra
-
-De flesta verktyg på marknaden är tunga, komplexa eller låsta till ett visst operativsystem.
-
-**Därför byggde jag Scriptomatic – ett litet, snabbt och plattformsoberoende formatteringsverktyg.**
-
 ---
 
 ## Teknik
